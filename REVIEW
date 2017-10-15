@@ -1,0 +1,8 @@
+Good description of the layers used and rationale behind using them.
+
+I've seen good performance with an additional Conv layer, larger initial kernel size, or experimenting with Dropout layers after the max pooling layers.
+
+Two links that helped me understand how some of the parameters work.
+
+* https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/
+* https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/
